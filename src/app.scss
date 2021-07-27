@@ -1,0 +1,24 @@
+.apps{
+   scroll-snap-type: mandatory;
+   scroll-snap-align: start;
+  height: 100vh;
+  
+
+  .sections{
+      overflow-x: hidden;
+      width: 100%;
+      height: calc(100vh - 70px);
+      position: relative;
+      top: 70px;
+      scrollbar-width: none;
+      &::-webkit-scrollbar{
+         display: none;
+      }
+
+      > *{
+         width: 100vw;
+         height: calc(100vh - 70px); 
+         
+      }
+  }
+}

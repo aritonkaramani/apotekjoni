@@ -1,0 +1,65 @@
+.topbar{
+    width: 100%;
+    height: 70px;
+    background-color: #17B978;
+    position: fixed;
+    top: 0;
+    z-index: 3;
+    .wrapper{
+        padding: 10px 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        .left{
+            padding: 0;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            .logo{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                text-decoration: none;
+                color: white;
+                font-size: 25px;
+                .plusIkon{
+                    font-size: 40px;
+                }
+            }
+        }
+        .right{
+            padding: 0 30px 0 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            .menu{
+                font-size: 20px;
+                ul{
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-between;
+                    list-style: none;
+                    width: 100%;
+                    color: white;
+                    li{
+                        display: flex;
+                        margin-bottom: 0;
+                        
+                        a{
+                            text-decoration: none;
+                            font-size: inherit;
+                            color: inherit;
+                            transition: 0.25s ease all;
+                        }
+
+                        &:hover{
+                            color: red;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

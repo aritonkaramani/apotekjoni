@@ -1,0 +1,90 @@
+.container{
+    display: flex;
+    color: grey;
+    background-color: white;
+    .wrapper{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        .upper{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background-color:#17B978;
+            color: white;
+            height: 35vh;
+            width: 100vw;
+            font-size: 25px;
+            .serviceintro{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+                p{
+                    width: 33vw;
+                    color: rgb(31, 31, 31);
+                    font-size: 20px;
+                }
+                h1{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    .plusIkon{
+                        font-size: 65px;
+                    }
+                }
+            }
+        }
+        .lower{
+            height: 65vh;
+            width: 60%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            > *{
+                padding: 0;
+                margin: 0;
+                width: 33%;
+                display: flex;
+                justify-content: center;
+                flex-direction: column;
+                align-items: center;
+                p{
+                    width: 50%;
+                    display: flex;
+                    text-align: center;
+                }
+                ul{
+                    li{
+                        list-style: none;
+                    }
+                }
+                .icon{
+                    font-size: 60px;
+                }
+                h4{
+                    color:darkgrey;
+                }
+                img{
+                    font-size: 20px;
+                }
+                }
+        }
+        a{
+            position: relative;
+            bottom: 10px;
+            .icon{
+                color: black;
+                font-size: 60px;
+
+            }
+        }
+    }
+    
+}

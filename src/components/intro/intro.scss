@@ -1,0 +1,34 @@
+.entrance{
+    background-color:  #17B978;
+    color: white;
+    display: flex;
+    font-size: 72px;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+
+    .logo{
+        display: flex;
+        align-items: center;
+        .plusIkon{
+            color: white;
+            font-size: 200px;
+        }
+    }
+    a{
+        position: absolute;
+        bottom: 10px;
+        color: white;
+        padding: 0;
+        margin: 0;
+        .icon{
+            font-size: 60px;
+            animation: arrowBlink 1.5s infinite;
+        }
+        @keyframes arrowBlink{
+            100%{
+                opacity: 0;
+            }
+        }
+    }
+}
