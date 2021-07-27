@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/apotekjoni/static/css/main.a617e044.chunk.css",
+    "main.js": "/apotekjoni/static/js/main.a12a17d6.chunk.js",
+    "main.js.map": "/apotekjoni/static/js/main.a12a17d6.chunk.js.map",
+    "runtime-main.js": "/apotekjoni/static/js/runtime-main.b85ee87a.js",
+    "runtime-main.js.map": "/apotekjoni/static/js/runtime-main.b85ee87a.js.map",
+    "static/js/2.9a164892.chunk.js": "/apotekjoni/static/js/2.9a164892.chunk.js",
+    "static/js/2.9a164892.chunk.js.map": "/apotekjoni/static/js/2.9a164892.chunk.js.map",
+    "static/js/3.dd987de1.chunk.js": "/apotekjoni/static/js/3.dd987de1.chunk.js",
+    "static/js/3.dd987de1.chunk.js.map": "/apotekjoni/static/js/3.dd987de1.chunk.js.map",
+    "index.html": "/apotekjoni/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/apotekjoni/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9a164892.chunk.js.LICENSE.txt": "/apotekjoni/static/js/2.9a164892.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/apotekjoni/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b85ee87a.js",
+    "static/js/2.9a164892.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a12a17d6.chunk.js"
+  ]
+}
