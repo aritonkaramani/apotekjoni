@@ -9,7 +9,7 @@ export default function About() {
             <div className="wrapperAbout">
                 <div className="upperAbout">
                     <div className="upperTitle">
-                    <h1>Om Oss</h1>
+                    <h1>Om oss</h1>
                     </div>
                 
                 </div>

@@ -15,11 +15,10 @@ export default function Services() {
                 <div className="wrapper">
                     <div className="upper">
                         <div className="serviceintro">
-                        <h1>Våra Tjänster</h1>
+                        <h1>Våra tjänster</h1>
                         <p>Apotek Elinegård vill vara mer än ett vanligt apotek. 
                             Vår filosofi sträcker sig utanför det traditionella apoteket och 
                             strävan är att med stort driv, skapa goda erbjudanden för våra kunder.
-                                <h5>Planerad öppning för Apotek Elinegård är oktober 2021</h5>
                         </p>
                         </div>
                         

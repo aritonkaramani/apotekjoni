@@ -16,10 +16,10 @@ export default function navbar() {
                                 <a href="#intro">Start</a>
                             </li>
                             <li>
-                                <a href="#services">Våra Tjänster</a>
+                                <a href="#services">Våra tjänster</a>
                             </li>
                             <li>
-                                <a href="#about">Om Oss</a>
+                                <a href="#about">Om oss</a>
                             </li>
                             <li>
                                 <a href="#contact">Kontakt</a>
