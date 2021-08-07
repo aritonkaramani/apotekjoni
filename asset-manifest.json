@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/apotekjoni/static/css/main.a2630487.chunk.css",
-    "main.js": "/apotekjoni/static/js/main.90d46198.chunk.js",
-    "main.js.map": "/apotekjoni/static/js/main.90d46198.chunk.js.map",
+    "main.css": "/apotekjoni/static/css/main.1e561ce6.chunk.css",
+    "main.js": "/apotekjoni/static/js/main.954f264e.chunk.js",
+    "main.js.map": "/apotekjoni/static/js/main.954f264e.chunk.js.map",
     "runtime-main.js": "/apotekjoni/static/js/runtime-main.ec8310ce.js",
     "runtime-main.js.map": "/apotekjoni/static/js/runtime-main.ec8310ce.js.map",
-    "static/js/2.23ab8260.chunk.js": "/apotekjoni/static/js/2.23ab8260.chunk.js",
-    "static/js/2.23ab8260.chunk.js.map": "/apotekjoni/static/js/2.23ab8260.chunk.js.map",
+    "static/js/2.de16e8ef.chunk.js": "/apotekjoni/static/js/2.de16e8ef.chunk.js",
+    "static/js/2.de16e8ef.chunk.js.map": "/apotekjoni/static/js/2.de16e8ef.chunk.js.map",
     "index.html": "/apotekjoni/index.html",
-    "static/css/main.a2630487.chunk.css.map": "/apotekjoni/static/css/main.a2630487.chunk.css.map",
-    "static/js/2.23ab8260.chunk.js.LICENSE.txt": "/apotekjoni/static/js/2.23ab8260.chunk.js.LICENSE.txt",
-    "static/media/38-mkt-ung-16273344756514.3e86c0a3.png": "/apotekjoni/static/media/38-mkt-ung-16273344756514.3e86c0a3.png"
+    "static/css/main.1e561ce6.chunk.css.map": "/apotekjoni/static/css/main.1e561ce6.chunk.css.map",
+    "static/js/2.de16e8ef.chunk.js.LICENSE.txt": "/apotekjoni/static/js/2.de16e8ef.chunk.js.LICENSE.txt",
+    "static/media/38-mkt-ung-16273344756514.3e86c0a3.png": "/apotekjoni/static/media/38-mkt-ung-16273344756514.3e86c0a3.png",
+    "static/media/pharmacist-pharmacy-counter-drug-store-svgrepo-com.c1fa9e19.svg": "/apotekjoni/static/media/pharmacist-pharmacy-counter-drug-store-svgrepo-com.c1fa9e19.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ec8310ce.js",
-    "static/js/2.23ab8260.chunk.js",
-    "static/css/main.a2630487.chunk.css",
-    "static/js/main.90d46198.chunk.js"
+    "static/js/2.de16e8ef.chunk.js",
+    "static/css/main.1e561ce6.chunk.css",
+    "static/js/main.954f264e.chunk.js"
   ]
 }
