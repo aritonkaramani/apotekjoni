@@ -8,6 +8,7 @@ import LocationCityTwoToneIcon from '@material-ui/icons/LocationCityTwoTone';
 import AssignmentTwoToneIcon from '@material-ui/icons/AssignmentTwoTone';
 import LocalHospitalSharpIcon from '@material-ui/icons/LocalHospitalSharp';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
+import {ReactComponent as PharmacyLogo} from '../../assets/pharmacist-pharmacy-counter-drug-store-svgrepo-com.svg';
 
 export default function Services() {
     return (
@@ -25,37 +26,33 @@ export default function Services() {
                     </div>
                     <div className="lower">
                         <div className="advice">
-                            <HelpOutlineTwoToneIcon className="icon"/>
-                            <h4>Farmaceutisk rådgivning</h4>
+                            <PharmacyLogo className="pharmLogo"/>
+                            <h3>Farmaceutisk rådgivning</h3>
                             <p>Låt oss förse dig med god farmaceutisk rådgivning utifrån dina behov. Vi erbjuder rådgivning både på plats och över telefon av legitimerade farmacuter. </p>
                         </div>
                         <div className="customer">
                             <AccountCircleIcon className="icon"/>
-                            <h4>KUNDEN FÖRST</h4>
-                            <p>Vi värderar våra kunder högst och strävar alltid att ge bäst service. På Apotek Elinegård ska man allitd känna sig sedd och välkommen.</p>
+                            <h3>KUNDEN FÖRST</h3>
+                            <p>Vi värderar våra kunder högst och strävar alltid att ge bäst service. På Apotek Elinegård ska man alltid känna sig sedd och välkommen.</p>
                         </div>
                         <div className="hours">
                             <AccessTimeTwoToneIcon className="icon"/>
-                            <h4>Öppettider</h4>
+                            <h3>Öppettider</h3>
                             <ul>
                                 <li>Måndag-Fredag: 09-18</li>
                                 <li>Lördag: 10-14</li>
                                 <li>Söndag: Stängt</li>
                             </ul>
                         </div>
-                        <div className="delivery">
-                            <LocalShippingTwoToneIcon className="icon"/>
-                            <h4>Kostnadsfri hemleverans</h4>
-                            <p>Ring oss enkelt på 0729 97 97 97 och beställ din medicin. Legitimera dig tryggt över telefon med Mobilt BankID. Få hemlevererat gratis. </p>
-                        </div>
+
                         <div className="company">
                             <LocationCityTwoToneIcon className="icon"/>
-                            <h4>Apotek för vårdgivare &amp; företag</h4>
+                            <h3>Apotek för vårdgivare &amp; företag</h3>
                             <p>Oavsett om det är en vårdcentral, veterinär, tandläkare eller ett äldreboende så vill vi gärna erbjuda kostnadseffektiva och trygga tjänster till er. </p>
                         </div>
                         <div className="subscriptions">
                             <AssignmentTwoToneIcon className="icon"/>
-                            <h4>Läkemedelsabonnemang</h4>
+                            <h3>Läkemedelsabonnemang</h3>
                             <p>Fokusera på annat. Låt våra legitimerade farmaceuter hålla koll på dina läkemedel. Vi beställer och levererar punktligt och kostnadsfritt i god tid innan din medicin tar slut. Ring oss på 0729 97 97 97 för att veta mer. </p>
                         </div>
                     </div>
@@ -65,3 +62,11 @@ export default function Services() {
         </div>
     )
 }
+/*                         
+                        <div className="delivery">
+                            <LocalShippingTwoToneIcon className="icon"/>
+                            <h4>Kostnadsfri hemleverans</h4>
+                            <p>Ring oss enkelt på 0729 97 97 97 och beställ din medicin. Legitimera dig tryggt över telefon med Mobilt BankID. Få hemlevererat gratis. </p>
+                        </div>
+
+*/
