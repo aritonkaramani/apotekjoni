@@ -1,2 +1,10 @@
 $mainBackground: rgb(245, 245, 242);
 $apoFarg: #17B978;
+
+$width: 1000px;
+
+@mixin mobile {
+    @media (max-width: #{$width}){
+        @content
+    }
+}

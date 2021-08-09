@@ -1,8 +1,13 @@
+@import "../../global.scss";
+
 .containerAbout{
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: rgb(245, 245, 242);
+    @include mobile{
+        height: 100vh;
+    }
     .wrapperAbout{
         display: flex;
         height: 100%;
@@ -21,6 +26,9 @@
             height: 35vh;
             width: 100vw;
             font-size: 25px;
+            @include mobile{
+                font-size: 16px;
+            }
             .upperTitle{
                 color: #17B978
             }
@@ -32,20 +40,38 @@
             display: flex;
             align-items: center;
             justify-content: center;
+            @include mobile{
+                flex-direction: column;
+                width: 100%;
+            }
 
         .left{
             display: flex;
             margin: 45px;
+            @include mobile{
+            }
             img{
-                width: 30vw;
+                width: 35vw;
+                @include mobile{
+                    width: 100vw;
+                }
             }
         }
         .right{
             display: flex;
             flex-direction: column;
             text-align: left;
+            @include mobile{
+                font-size: 10px;
+                align-items: center;
+                justify-content: center;
+                width: 100vw;
+            }
             span{
                 width: 100%;
+                @include mobile{
+                    width: 75%;
+                }
             }
             h5{
                 text-align: left;
