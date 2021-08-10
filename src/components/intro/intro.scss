@@ -8,10 +8,11 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    min-height: calc(100vh - 70px);
     width: 100vw;
+    overflow-y: hidden;
     @include mobile{
         font-size: 23px;
-        height: 100vh;
     }
 
     .logo{

@@ -5,12 +5,9 @@
     align-items: center;
     justify-content: center;
     background-color: rgb(245, 245, 242);
-    @include mobile{
-        height: 100vh;
-    }
+    min-height: calc(100vh - 70px);
     .wrapperAbout{
         display: flex;
-        height: 100%;
         align-items: center;
         justify-content: center;
         flex-direction: column;
@@ -23,7 +20,6 @@
             justify-content: center;
             background-color:inherit;
             color: #17B978;
-            height: 35vh;
             width: 100vw;
             font-size: 25px;
             @include mobile{
@@ -35,7 +31,6 @@
 
         }
         .lowerAbout{
-            height: 65vh;
             width: 60%;
             display: flex;
             align-items: center;

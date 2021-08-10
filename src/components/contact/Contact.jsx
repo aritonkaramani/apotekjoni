@@ -11,7 +11,6 @@ export default function Contact() {
             <div className="card">
                 
                 <div className="left">
-                    <h2>Kontakta Oss</h2>
                     <div id="contact-form" className="form">
                         <form action="https://formspree.io/f/mjvjazga" method="POST">
                         <input type="hidden" name="_subject" value="Contact request from Portfolio Website" />
@@ -23,7 +22,6 @@ export default function Contact() {
                     </div>
                 </div>
                 <div className="right">
-                    <h2>Följ Oss</h2>
                 <p>
                 Kontakta oss med alla typer av företagsförfrågningar och samarbetsinitiativ. 
                 Vi är öppna för att dela vår vision och redo för nya samarbeten med kreativa individer och företag.
@@ -41,7 +39,9 @@ export default function Contact() {
                 </ul>
  
 
-                <p>APOFARM AB, 559301-1363</p>
+                <ul>
+                    <li>APOFARM AB, 559301-1363</li>
+                </ul>
                 </div>
                     
         </div>
