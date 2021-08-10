@@ -21,10 +21,7 @@
             background-color:inherit;
             color: #17B978;
             width: 100vw;
-            font-size: 25px;
-            @include mobile{
-                font-size: 16px;
-            }
+            font-size: 25px; 
             .upperTitle{
                 color: #17B978
             }
@@ -57,7 +54,6 @@
             flex-direction: column;
             text-align: left;
             @include mobile{
-                font-size: 10px;
                 align-items: center;
                 justify-content: center;
                 width: 100vw;
