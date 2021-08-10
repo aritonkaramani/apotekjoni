@@ -58,6 +58,11 @@
                 justify-content: center;
                 width: 100vw;
             }
+            h3{
+                @include mobile{
+                    width: 75%;
+                }
+            }
             span{
                 width: 100%;
                 @include mobile{

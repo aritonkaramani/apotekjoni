@@ -13,6 +13,7 @@
     overflow-y: hidden;
     @include mobile{
         text-align: center;
+        font-size: 40px;
     }
 
     .logo{
@@ -24,6 +25,9 @@
         .plusIkon{
             color: white;
             font-size: 200px;
+        @include mobile{
+            font-size: 100px;
+        }
         }
     }
     .titletext{
