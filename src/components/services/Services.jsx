@@ -56,7 +56,6 @@ export default function Services() {
                             <p>Fokusera på annat. Låt våra legitimerade farmaceuter hålla koll på dina läkemedel. Vi beställer och levererar punktligt och kostnadsfritt i god tid innan din medicin tar slut. Ring oss på 0729 97 97 97 för att veta mer. </p>
                         </div>
                     </div>
-                    <a href="#about"><ExpandMoreIcon className="icon"/></a>
                 </div>
 
         </div>
