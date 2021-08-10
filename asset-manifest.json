@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/apotekjoni/static/css/main.fcdf15d4.chunk.css",
+    "main.css": "/apotekjoni/static/css/main.7c240905.chunk.css",
     "main.js": "/apotekjoni/static/js/main.cfdef27c.chunk.js",
     "main.js.map": "/apotekjoni/static/js/main.cfdef27c.chunk.js.map",
     "runtime-main.js": "/apotekjoni/static/js/runtime-main.ec8310ce.js",
@@ -8,7 +8,7 @@
     "static/js/2.f7bb2006.chunk.js": "/apotekjoni/static/js/2.f7bb2006.chunk.js",
     "static/js/2.f7bb2006.chunk.js.map": "/apotekjoni/static/js/2.f7bb2006.chunk.js.map",
     "index.html": "/apotekjoni/index.html",
-    "static/css/main.fcdf15d4.chunk.css.map": "/apotekjoni/static/css/main.fcdf15d4.chunk.css.map",
+    "static/css/main.7c240905.chunk.css.map": "/apotekjoni/static/css/main.7c240905.chunk.css.map",
     "static/js/2.f7bb2006.chunk.js.LICENSE.txt": "/apotekjoni/static/js/2.f7bb2006.chunk.js.LICENSE.txt",
     "static/media/38-mkt-ung-16273344756514.3e86c0a3.png": "/apotekjoni/static/media/38-mkt-ung-16273344756514.3e86c0a3.png",
     "static/media/pharmacist-pharmacy-counter-drug-store-svgrepo-com.7593276f.svg": "/apotekjoni/static/media/pharmacist-pharmacy-counter-drug-store-svgrepo-com.7593276f.svg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.ec8310ce.js",
     "static/js/2.f7bb2006.chunk.js",
-    "static/css/main.fcdf15d4.chunk.css",
+    "static/css/main.7c240905.chunk.css",
     "static/js/main.cfdef27c.chunk.js"
   ]
 }
