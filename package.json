@@ -2,7 +2,7 @@
   "name": "apotekjoni",
   "version": "0.1.0",
   "private": true,
-  "homepage": "www.apotekelinegard.se",
+  "homepage": "https://www.apotekelinegard.se",
   "dependencies": {
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.11.2",
