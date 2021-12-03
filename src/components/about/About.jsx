@@ -1,7 +1,6 @@
 import React from 'react'
 import '../about/about.scss';
 import PH from '../../assets/38-mkt-ung-16273344756514.png';
-import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 
 export default function About() {
     return (

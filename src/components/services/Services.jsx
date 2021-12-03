@@ -2,12 +2,8 @@ import React from 'react'
 import "../services/services.scss";
 import AccessTimeTwoToneIcon from '@material-ui/icons/AccessTimeTwoTone';
 import AccountCircleIcon from '@material-ui/icons/AccountCircle'; 
-import HelpOutlineTwoToneIcon from '@material-ui/icons/HelpOutlineTwoTone';
-import LocalShippingTwoToneIcon from '@material-ui/icons/LocalShippingTwoTone';
 import LocationCityTwoToneIcon from '@material-ui/icons/LocationCityTwoTone';
 import AssignmentTwoToneIcon from '@material-ui/icons/AssignmentTwoTone';
-import LocalHospitalSharpIcon from '@material-ui/icons/LocalHospitalSharp';
-import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import {ReactComponent as PharmacyLogo} from '../../assets/pharmacist-pharmacy-counter-drug-store-svgrepo-com.svg';
 
 export default function Services() {
