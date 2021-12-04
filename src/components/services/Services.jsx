@@ -12,10 +12,8 @@ export default function Services() {
                 <div className="wrapper">
                     <div className="upper">
                         <div className="serviceintro">
-                        <h1>Våra tjänster</h1>
-                        <p>Apotek Elinegård vill vara mer än ett vanligt apotek. 
-                            Vår filosofi sträcker sig utanför det traditionella apoteket och 
-                            strävan är att med stort driv, skapa goda erbjudanden för våra kunder.
+                        <h1>Vårt erbjudande</h1>
+                        <p>Vi har öppnat, välkommen in!
                         </p>
                         </div>
                         
@@ -24,7 +22,7 @@ export default function Services() {
                         <div className="advice">
                             <PharmacyLogo className="pharmLogo"/>
                             <h3>Farmaceutisk rådgivning</h3>
-                            <p>Låt oss förse dig med god farmaceutisk rådgivning utifrån dina behov. Vi erbjuder rådgivning både på plats och över telefon av legitimerade farmacuter. </p>
+                            <h4>Låt oss förse dig med god farmaceutisk rådgivning utifrån dina behov. Vi erbjuder rådgivning både på plats och över telefon av legitimerade farmacuter. </h4>
                         </div>
                         <div className="customer">
                             <AccountCircleIcon className="icon"/>

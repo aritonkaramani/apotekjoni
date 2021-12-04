@@ -19,15 +19,11 @@ export default function About() {
                 <div className="right">
                     <h3>Vilka är vi?
                     <br/>Vi är ett litet apotek med ett stort hjärta. </h3>
-                    <span>Apotek Elinegård drivs av Apotekare Dan Johansson med personal. 
-                        Vi är dedikerade till att skapa ett respektabelt varumärke som alltid kommer att 
-                        imponera inte bara på service utan också på kvalitet. </span>
+                    <span>Apotek Elinegård är ett apotek med tillstånd av Läkemedelsverket. </span>
                         <br/>
-                    <span>Dan Johansson skapade APOFARM AB som äger Apotek Elinegård i Limhamn.
-                    Ambitionen är att driva ett apotek med ett stort fokus för god service och tillgänglighet för det lokala området
-                    i Elinegård och omkringliggande områden i Malmö. 
-                    Vår långsiktiga strategi är att kunna erbjuda apotekstjänster bortom det
-                    lokala området och skapa långsiktiga relationer med både konsumenter och företag. 
+                    <span>Vår ambition är att ha ett stort fokus för god service och tillgänglighet för det lokala området i Elinegård
+                        och omkringliggande områden i Malmö. Vår långsiktiga strategi är att kunna erbjuda apotekstjänster i det lokala området och skapa 
+                        långsiktiga relationer med både konsumenter och företag.
                     </span>
                 </div>
                 </div>

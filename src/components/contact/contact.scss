@@ -74,6 +74,11 @@
             width: 100%;
             padding: 20px;
             height: 100%;
+            .icon {
+                font-size: 25px;
+                width: 35px;
+                cursor: pointer;
+            }
             @include mobile{
                 align-items: center;
             }

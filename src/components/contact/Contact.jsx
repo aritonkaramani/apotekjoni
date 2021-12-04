@@ -1,5 +1,6 @@
 import React from 'react';
 import './contact.scss';
+import FacebookIcon from '@material-ui/icons/Facebook';
 
 export default function Contact() {
     return (
@@ -22,26 +23,26 @@ export default function Contact() {
                     </div>
                 </div>
                 <div className="right">
-                <p>
-                Kontakta oss med alla typer av företagsförfrågningar och samarbetsinitiativ. 
-                Vi är öppna för att dela vår vision och redo för nya samarbeten med kreativa individer och företag.
-                </p>
-                <ul>
-                    <li>Telefon: 0729 97 97 97</li>
-                    <li>Email: kundservice@apofarm.se</li>
-                    <li>Besöksaddress: Högatan 2, 216 33, Limhamn</li>
-                </ul>
-                <ul>
-                    <li>Öppettider:</li>
-                    <li>Måndag-Fredag 09-18</li>
-                    <li>Lördag 10-14</li>
-                    <li>Söndag Stängt</li>
-                </ul>
- 
+                    <p>
+                    Välkommen att kontakta oss via mejl eller telefon!
+                    </p>
+                    <FacebookIcon class="icon"/>
+                    <ul>
+                        <li>Telefon: 0729 97 97 97</li>
+                        <li>Email: kundservice@apofarm.se</li>
+                        <li>Besöksaddress: Högatan 2, 216 33, Limhamn</li>
+                    </ul>
+                    <ul>
+                        <li>Öppettider:</li>
+                        <li>Måndag-Fredag 09-18</li>
+                        <li>Lördag 10-14</li>
+                        <li>Söndag Stängt</li>
+                    </ul>
+    
 
-                <ul>
-                    <li>APOFARM AB, 559301-1363</li>
-                </ul>
+                    <ul>
+                        <li>APOFARM AB, 559301-1363</li>
+                    </ul>
                 </div>
                     
         </div>
