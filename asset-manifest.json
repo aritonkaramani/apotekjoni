@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.c87ed762.chunk.css",
-    "main.js": "/static/js/main.12d4acca.chunk.js",
-    "main.js.map": "/static/js/main.12d4acca.chunk.js.map",
+    "main.css": "/static/css/main.13eac107.chunk.css",
+    "main.js": "/static/js/main.53eaff81.chunk.js",
+    "main.js.map": "/static/js/main.53eaff81.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.693733cf.js",
     "runtime-main.js.map": "/static/js/runtime-main.693733cf.js.map",
-    "static/js/2.147d4ee0.chunk.js": "/static/js/2.147d4ee0.chunk.js",
-    "static/js/2.147d4ee0.chunk.js.map": "/static/js/2.147d4ee0.chunk.js.map",
+    "static/js/2.d1516b46.chunk.js": "/static/js/2.d1516b46.chunk.js",
+    "static/js/2.d1516b46.chunk.js.map": "/static/js/2.d1516b46.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c87ed762.chunk.css.map": "/static/css/main.c87ed762.chunk.css.map",
-    "static/js/2.147d4ee0.chunk.js.LICENSE.txt": "/static/js/2.147d4ee0.chunk.js.LICENSE.txt",
+    "static/css/main.13eac107.chunk.css.map": "/static/css/main.13eac107.chunk.css.map",
+    "static/js/2.d1516b46.chunk.js.LICENSE.txt": "/static/js/2.d1516b46.chunk.js.LICENSE.txt",
     "static/media/38-mkt-ung-16273344756514.3e86c0a3.png": "/static/media/38-mkt-ung-16273344756514.3e86c0a3.png",
     "static/media/pharmacist-pharmacy-counter-drug-store-svgrepo-com.7593276f.svg": "/static/media/pharmacist-pharmacy-counter-drug-store-svgrepo-com.7593276f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.693733cf.js",
-    "static/js/2.147d4ee0.chunk.js",
-    "static/css/main.c87ed762.chunk.css",
-    "static/js/main.12d4acca.chunk.js"
+    "static/js/2.d1516b46.chunk.js",
+    "static/css/main.13eac107.chunk.css",
+    "static/js/main.53eaff81.chunk.js"
   ]
 }
